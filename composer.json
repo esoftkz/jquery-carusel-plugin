@@ -1,0 +1,21 @@
+{
+    "name": "esoftkz/jquery-carusel-plugin",
+    "description": "Jquery carusel plugin",   
+    "keywords": [
+		"esoftkz",
+		"yii2",
+		"extension",
+		"adminlte"
+	],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "esoftkz",
+            "email": "2481496@gmail.com"
+        }
+    ],
+    "peerDependencies": {
+		"jquery": "*"
+	  },
+	
+}
